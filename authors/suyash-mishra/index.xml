@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suyash Mishra</title>
+    <link>https://suyashmishra2710.github.io/suyashmishra2710/authors/suyash-mishra/</link>
+    <description>Recent content on Suyash Mishra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://suyashmishra2710.github.io/suyashmishra2710/authors/suyash-mishra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Travel Satisfaction</title>
+      <link>https://suyashmishra2710.github.io/suyashmishra2710/posts/project2/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://suyashmishra2710.github.io/suyashmishra2710/posts/project2/</guid>
+      <description>About Link to heading This project uses survey data indicating passenger satisfaction with different U.S. airlines. The purpose of this project was to identify features relating specifically to the flight that could be used to make classification models predicting whether or not a passenger would be satisfied by their air travel experience. From the dataset, the different aspects users rated from 0-5 on satisfaction include seat comfort, departure/arrival time convenient, food and drink, gate location, inflight wifi service, inflight entertainment, online support, ease of online booking, on-board service, leg room service, baggage handling, checkin service, cleanliness, and online boarding.</description>
+    </item>
+    
+    <item>
+      <title>Cancer Classification</title>
+      <link>https://suyashmishra2710.github.io/suyashmishra2710/posts/project3/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://suyashmishra2710.github.io/suyashmishra2710/posts/project3/</guid>
+      <description>About Link to heading This project takes in text diagnoses of three different types of cancers (Thyroid, Lung, and Colon cancers) and creates a superivsed learning classification model in the form of a random forest. The random forest model uses the text as features to try and classify each cancer correctly. To prepare the text, a bag of words model is used to vectorize the text into numbers. Afterwards, TruncatedSVD is used to reduce the dimensionality of the text data while removing linear correlation between various words.</description>
+    </item>
+    
+    <item>
+      <title>Traffic Sign Detection and Visualization</title>
+      <link>https://suyashmishra2710.github.io/suyashmishra2710/posts/project1/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://suyashmishra2710.github.io/suyashmishra2710/posts/project1/</guid>
+      <description>About Link to heading This project is aimed at answering the following question: How effective can object detection algorithms be at understanding different traffic signs? This project consists of a machine learning part and an object-oriented programming part. The machine learning part of the product comes first and utilizes the yolov5 object detection algorithm (after training with hundreds of traffic signs) to analyze traffic signs and come up with a prediction on what type of traffic sign was presented (for example, a stop sign).</description>
+    </item>
+    
+  </channel>
+</rss>

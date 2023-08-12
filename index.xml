@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suyash Mishra</title>
+    <link>https://suyashmishra2710.github.io/suyashmishra2710/</link>
+    <description>Recent content on Suyash Mishra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://suyashmishra2710.github.io/suyashmishra2710/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Travel Satisfaction</title>
+      <link>https://suyashmishra2710.github.io/suyashmishra2710/posts/project2/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://suyashmishra2710.github.io/suyashmishra2710/posts/project2/</guid>
+      <description>About Link to heading This project uses survey data indicating passenger satisfaction with different U.S. airlines. The purpose of this project was to identify features relating specifically to the flight that could be used to make classification models predicting whether or not a passenger would be satisfied by their air travel experience. From the dataset, the different aspects users rated from 0-5 on satisfaction include seat comfort, departure/arrival time convenient, food and drink, gate location, inflight wifi service, inflight entertainment, online support, ease of online booking, on-board service, leg room service, baggage handling, checkin service, cleanliness, and online boarding.</description>
+    </item>
+    
+    <item>
+      <title>Cancer Classification</title>
+      <link>https://suyashmishra2710.github.io/suyashmishra2710/posts/project3/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://suyashmishra2710.github.io/suyashmishra2710/posts/project3/</guid>
+      <description>About Link to heading This project takes in text diagnoses of three different types of cancers (Thyroid, Lung, and Colon cancers) and creates a superivsed learning classification model in the form of a random forest. The random forest model uses the text as features to try and classify each cancer correctly. To prepare the text, a bag of words model is used to vectorize the text into numbers. Afterwards, TruncatedSVD is used to reduce the dimensionality of the text data while removing linear correlation between various words.</description>
+    </item>
+    
+    <item>
+      <title>Traffic Sign Detection and Visualization</title>
+      <link>https://suyashmishra2710.github.io/suyashmishra2710/posts/project1/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://suyashmishra2710.github.io/suyashmishra2710/posts/project1/</guid>
+      <description>About Link to heading This project is aimed at answering the following question: How effective can object detection algorithms be at understanding different traffic signs? This project consists of a machine learning part and an object-oriented programming part. The machine learning part of the product comes first and utilizes the yolov5 object detection algorithm (after training with hundreds of traffic signs) to analyze traffic signs and come up with a prediction on what type of traffic sign was presented (for example, a stop sign).</description>
+    </item>
+    
+    <item>
+      <title>temas</title>
+      <link>https://suyashmishra2710.github.io/suyashmishra2710/categoria/temas/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
+      
+      <guid>https://suyashmishra2710.github.io/suyashmishra2710/categoria/temas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sintaxe</title>
+      <link>https://suyashmishra2710.github.io/suyashmishra2710/categoria/sintaxe/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
+      
+      <guid>https://suyashmishra2710.github.io/suyashmishra2710/categoria/sintaxe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Códigos curtos</title>
+      <link>https://suyashmishra2710.github.io/suyashmishra2710/tags/shortcodes/_index.pt-br/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      
+      <guid>https://suyashmishra2710.github.io/suyashmishra2710/tags/shortcodes/_index.pt-br/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awards &amp; Publications</title>
+      <link>https://suyashmishra2710.github.io/suyashmishra2710/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://suyashmishra2710.github.io/suyashmishra2710/awards/</guid>
+      <description>Vertically Integrated Projects Share With the World Award Link to heading Winning Team: Earth History Visualization
+Winning Members: Suyash Mishra, James Ogg, Aaron Ault, Wen Du, Yuzheng Qian, Sree Panuganti
+Description: The VIP Share With the World award is a research award given by Purdue&amp;rsquo;s Vertically Integrated Projects Program. Specifically, it is a team award rewarding those teams that create a broader impact through outreach, publications, grants, or opensource code.</description>
+    </item>
+    
+    <item>
+      <title>Certifications</title>
+      <link>https://suyashmishra2710.github.io/suyashmishra2710/certifications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://suyashmishra2710.github.io/suyashmishra2710/certifications/</guid>
+      <description>Purdue University: Intermediate ReactJS Link to heading This certification was given upon completion of creating a Pokedex app, using reactjs, that was capable of applying various search filters to search through a Pokémon API and retrieve desired information. Kaggle: Pandas Link to heading This certification was given upon completion of various Pandas exercises demonstrating effiency in using the Python library to manipulate and clean data for a variety of needs.</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://suyashmishra2710.github.io/suyashmishra2710/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://suyashmishra2710.github.io/suyashmishra2710/education/</guid>
+      <description>Bachelor of Science in Computer Engineering Link to heading Purdue University: August 2019 - May 2023
+Completed a comprehensive curriculum focused on using the engineering design process to tackle many challenges with a focus on computer programming and data science.
+Relevant Coursework &amp;amp; Skills: Link to heading Computer Science Coursework: Link to heading C Programming Advanced C Programming Data Structues &amp;amp; Algorithms Object Oriented Progamming With Java Operating Systems Engineering Microprocessor Systems and Interfacing Data Science Coursework: Link to heading Python for Data Science Artificial Intelligence Data Mining Basic Concepts and Techniques Probabilistic Methods in Electrical and Computer Engineering Transforming Ideas to Innovation II Relevant Skills: Link to heading Languages/Libraries: C, Python, MATLAB, PHP, Java, NumPy, Pandas, GridSearchCV, XGBoost, Matplotlib, Sklearn, Imblearn</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://suyashmishra2710.github.io/suyashmishra2710/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://suyashmishra2710.github.io/suyashmishra2710/projects/</guid>
+      <description> My Blog Links Link to heading Blog Post 1 </description>
+    </item>
+    
+    <item>
+      <title>Work Experience</title>
+      <link>https://suyashmishra2710.github.io/suyashmishra2710/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://suyashmishra2710.github.io/suyashmishra2710/work/</guid>
+      <description>Data Science Analyst - JPMorgan Chase &amp;amp; Co. Link to heading Duration: Summer 2022
+Description:
+I was responsible for developing various machine learning models related to the automation and prediction of various audit-related tasks including risk assessment seperation, control breakdown predictions, and security risk classification posed by the onboarding of new digitial applications.
+Key Achievements:
+Developed stastical machine learning models for seperating risk assessments to ensure tech auditors received technical risk assessments and business auditors received business-related risk assessments Implemented performance tests through Alteryx Designer to assess and prevent break of bank&amp;rsquo;s internal controls Predicted security control breakdowns resulting from technical change requests using Oracle SQL, Tableau, and ensemble learning Incorporated different undersampling and oversampling techniques to improve recall perfomance of an existing model by 40% Collaborated among interns in firmwide case study to understand factors responsible for rising housing costs Technologies Used:</description>
+    </item>
+    
+  </channel>
+</rss>
